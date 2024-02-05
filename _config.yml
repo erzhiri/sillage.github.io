@@ -8,3 +8,8 @@ email: erzhiri@gmail.com
 github_username: sillageli
 # show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
+contact:
+  facebook: aaa@email.com
+  instagram: aaa@email.com
+  youtube: aaa@email.com
+  twitter: aaa@email.com
